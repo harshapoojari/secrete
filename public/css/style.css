@@ -1,0 +1,47 @@
+body {
+    background-color: #E8ECEF;
+  }
+.centered{
+    padding-top: 150px;
+    text-align: center;
+}
+.content{
+    border-radius: 4px;
+    width: 600px;
+    background-color: white;
+}
+.main-body{
+    padding: 15px;
+}
+.container{
+    margin-top: 40px;
+    margin-left: 200px;
+}
+label{
+    margin-bottom: 5px;
+}
+input{
+    
+    margin-bottom: 10px;
+    width: 100%;
+}
+.secrete{
+    font-size: 80px;
+}
+hr{
+    width: 80%;
+    margin-left: 10%;
+}
+.small{
+
+    background-color: black;
+    width: 80%;
+    margin-left: 10%;
+}
+.small p{
+    color: white;
+    font-size: 30px;
+}
+.secreteh{
+    font-size: 50px;
+}
